@@ -5,5 +5,5 @@
 
 За основу взята вводная статья Mike Ash https://mikeash.com/pyblog/fluid-simulation-for-dummies.html
 
-
+![](https://github.com/denfad/FluidSimulator/blob/master/images/record.gif))
 
